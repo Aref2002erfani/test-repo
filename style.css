@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section .contaiener a{
+    width: 300px;
+    height: 45px;
+    outline: 0;
+    border: .5px solid black;
+    color: rgb(0, 0, 0);
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: aqua;
+}
